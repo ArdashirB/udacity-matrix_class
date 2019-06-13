@@ -294,16 +294,5 @@ class Matrix(object):
             
             
             
-#             pass
-#             #   
-#             # TODO - your code here
-#             #
-#             new = zeroes(self.h,self.w)
-#             for i in range(self.h):
-# #                 row = []
-#                 for j in range(self.w):
-#                     new[i][j] = other * self.g[i][j]
-# #                     row.append(other*self.g[i][j])
-# #                 new.append(row)
-#             return new
+
             
